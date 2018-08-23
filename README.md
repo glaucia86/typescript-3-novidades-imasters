@@ -11,7 +11,7 @@ Para realizar as demos do código do artigo, se faz necessário instalar os segu
 * Node.Js - [DOWNLOAD AQUI](https://nodejs.org/en/)
 * TypeScript: [DOWNLOAD - AQUI](https://www.typescriptlang.org/) 
 
-### 🔥 Configuração do Ambiente de Desenvolvimento:
+## 🔥 Configuração do Ambiente de Desenvolvimento:
 
 Se você optar em usar o Visual Studio Code, será bem simples de configurar o ambiente.
 
@@ -29,7 +29,7 @@ as informações copiadas no site do Visual Studio Code e Salve o arquivo.
 
 
 #### 4º Passo:
-Depois de ter criado o arquivo tsconfig.json, clique nos botões: Crtl + Shift + P e digite: 'Configure Default Build Task' e escolha a opção 'tsc:build - tsconfig.json' e vai gerar uma pasta e arquivo: 
+Depois de ter criado o arquivo tsconfig.json, clique nos botões: **Crtl + Shift + P** e digite: **'Configure Default Build Task'** e escolha a opção **tsc:build - tsconfig.json** e vai gerar uma pasta e arquivo: 
 
 * .vscode
 * task.json
@@ -60,7 +60,7 @@ Abre o arquivo: tasks.json e altere para as seguintes linhas:
 ```
 
 #### 6º Passo:
-Para executar o código, basta clicar nos botões: CTRL + SHIFT + B.. e com o terminal integrado no Visual 
+Para executar o código, basta clicar nos botões: **CTRL + SHIFT + B** e com o terminal integrado no Visual 
 Studio Code, basta ir até o diretório do arquivo e digitar o seguinte comando:
 
 ```
