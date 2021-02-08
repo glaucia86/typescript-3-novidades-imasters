@@ -7,7 +7,7 @@ Repositório responsável pelos códigos de exemplo desenvolvidos no artigo do i
 
 Para realizar as demos do código do artigo, se faz necessário instalar os seguintes programas:
 
-* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
+* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
 * Node.Js - [DOWNLOAD AQUI](https://nodejs.org/en/)
 * TypeScript: [DOWNLOAD - AQUI](https://www.typescriptlang.org/) 
 
@@ -16,7 +16,7 @@ Para realizar as demos do código do artigo, se faz necessário instalar os segu
 Se você optar em usar o Visual Studio Code, será bem simples de configurar o ambiente.
 
 #### 1º Passo:
-Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):
+Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript?WT.mc_id=javascript-0000-gllemos) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):
 
 ![alt tag](https://uploaddeimagens.com.br/images/000/921/644/original/pic_1.png?1495141187)
 
